@@ -6,7 +6,7 @@ This editable paper follows the Module 1/Module 2 visual system and turns the Ma
 
 - `main.tex`: complete paper, tables, and original communication-system diagram
 - `references.bib`: Module 3, prior EDE448, and EDU486 references
-- `../../../../output/pdf/EDE448-Communication-Support-Plan.pdf`: six-page, visually verified local submission copy; ignored by the public course repository
+- `main.pdf`: locally compiled review copy when built; ignored from version control
 
 ## Build
 
@@ -14,4 +14,4 @@ This editable paper follows the Module 1/Module 2 visual system and turns the Ma
 latexmk -pdf main.tex
 ```
 
-The learner is a prospective, non-identifying assignment scenario informed by camp routines. The paper does not claim that a particular camper was a nonspeaking AAC user.
+The learners are fictional, non-identifying composite scenarios informed by camp and teaching-placement routines. The paper does not claim that a particular child was diagnosed, nonspeaking, or an AAC user.

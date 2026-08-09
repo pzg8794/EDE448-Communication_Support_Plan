@@ -56,7 +56,7 @@ Camp practice provides concrete examples for this profile. Youth were allowed to
 
 ## Why AAC Must Be Multimodal
 
-Mirenda (2015) describes AAC as an evolving combination of aided and unaided techniques. Schlosser et al. (2014) similarly emphasize assessment, feature matching, aided input, communication functions, partners, and generalization. ASHA identifies AAC as appropriate without age, cognitive-score, or milestone prerequisites. A communicator should not have to abandon an efficient gesture, home-language word, facial expression, drawing, or object-based message to prove competence with a device.
+Mirenda (2015) describes AAC as an evolving combination of aided and unaided techniques. Schlosser et al. (2014) similarly emphasize assessment, feature matching, aided input, communication functions, partners, and generalization. Weng (2016) makes language, family, and community part of AAC access, and ASHA identifies AAC as appropriate without age, cognitive-score, or milestone prerequisites. A communicator should not have to abandon an efficient gesture, home-language word, facial expression, drawing, or object-based message to prove competence with a device.
 
 For both students, the communication system includes:
 
@@ -98,9 +98,9 @@ Downing, Hanreddy, and Peckham-Hardin (2015) support embedding communication opp
 
 | Routine | Mateo can communicate | Eli can communicate | Partner action |
 | --- | --- | --- | --- |
-| Arrival/preview | greet in either language, ask what comes next, choose first task | greet, check schedule, observe first, choose or pass | Review visual sequence; model available vocabulary; protect wait time |
+| Arrival | greet in either language, ask what comes next, choose first task | greet, check schedule, observe first, choose or pass | Review visual sequence; model available vocabulary; protect wait time |
 | Technology setup | identify interface language, ask for help, request a demonstration | request device position, choose access route, indicate ready/not ready | Keep communication systems within reach and demonstrate one step at a time |
-| Observe/collect | label, photograph, compare, ask, comment | direct attention, choose tool, point, photograph, reject material | Accept speech, AAC, Spanish, English, gesture, objects, and visual evidence |
+| Observe | label, photograph, compare, ask, comment | direct attention, choose tool, point, photograph, reject material | Accept speech, AAC, Spanish, English, gesture, objects, and visual evidence |
 | Build/revise | explain a change, type a label, direct a partner, ask for clarification | add/remove, label, arrow, disagree, demonstrate, direct a partner | Give students control of meaningful materials and shared products |
 | Group decision | vote, explain, write, pass, propose another option | vote, point, pass, write-in, request time, identify an access barrier | Make vote, write-in, pass, and return routes visible |
 | Peer role | actor, coder, translator, recorder, debugger, presenter, director | commentator, evidence finder, photographer, reviser, demonstrator, observer/returner | Keep roles flexible and allow students to combine or change them |
