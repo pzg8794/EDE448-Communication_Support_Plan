@@ -19,7 +19,7 @@ This repository contains the editable, review-ready Module 3 paper **Communicati
 
 Mateo, Eli, and Luca are fictional pooled composites. No profile is a disguised biography or a one-to-one stand-in for a child. All three may draw from the same de-identified bank of camp and teaching-placement strategies when the access condition fits.
 
-The showcase analysis separates its evidence types. Camp records document data organized by day and activity and youth use of the trifold, photographs, model, samples, and tools. The de-identified practitioner reflection contributes the sequence of adult-partner actions and the instructional interpretation. The paper does not infer motive, assign a diagnosis to an observed learner, or claim that an observed child used AAC.
+The showcase analysis separates its evidence types. Camp records document data organized by day and activity and youth use of the trifold, photographs, model, samples, and tools. The de-identified practitioner reflection contributes the sequence of adult-partner actions and the instructional interpretation. A completed home-school record then simulates how those conditions and supports could inform Mateo's plan; it is explicitly not an observed child's record or verbatim student/family language. The paper does not infer motive, assign a diagnosis to an observed learner, or claim that an observed child used AAC.
 
 ## Build
 
